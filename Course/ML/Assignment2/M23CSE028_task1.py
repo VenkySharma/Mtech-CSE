@@ -79,9 +79,9 @@ def repeat_until_convergence(data, clusters, centroids):
     return clusters, centroids
 
 
-def cluster(data,no_of_cluster):
+def cluster(data):
     print("Start worker process id: {0}".format(os.getpid()))
-    centroids = init_centroids(data,no_of_cluster)
+    centroids = init_centroids(data)
     clusters = form_cluster(centroids, data)
     final_clusters, final_centroids = repeat_until_convergence(data, clusters, centroids)
     return final_centroids
@@ -121,13 +121,11 @@ def showGeneral(label):
 
 
 def main():
-    no_of_clusters = int(input("Enter the no of clusters"))
     num_proc = 12
     print("Numbers of Proccess: {0}".format(num_proc))    
     start_time = time.time()
 
     data, label = loadData("mnist_train.csv")
-    
 
     load_time = time.time()
     print("Loadtime: {0}s".format(load_time - start_time))
@@ -138,7 +136,7 @@ def main():
     res_centroids_multi = p.map(cluster, dataSplit)
     
     combineCentroIds = reduce(lambda x, y: x + y, res_centroids_multi, [])
-    res_centroids = cluster(combineCentroIds,no_of_clusters)
+    res_centroids = cluster(combineCentroIds)
     res_clusters = list(form_cluster(res_centroids, data))
 
     end_time = time.time()
@@ -155,4 +153,4 @@ def main():
         showDigit(data[:120])
 
 if __name__ == "__main__":
-    main()
+    main() 
