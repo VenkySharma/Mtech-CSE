@@ -34,5 +34,6 @@ Time: Morning 8-8:50🕔 Mon,Wed,Fri
   | Electron |
   
   All steps of code compilation were discussed: .c->|preprocessor|->.i->|compiler|->.asm->|assembler|->.obj(object code)->machine code(.out)
+  
   Is the architecture of system frequently changes or is it a long term solution: it was answered by taking above stack and given example of still used x86 and x64 architecture.
   
