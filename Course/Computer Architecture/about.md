@@ -9,7 +9,27 @@ Time: Morning 8-8:50🕔 Mon,Wed,Fri
 4. minor 30%
 5. major 20%
 
-# High level Goals
+## High level Goals
 - understand the principles
 - understand the precendents
 - how to use above two for new designs
+
+### Day1 05/01/24
+- introduction by teacher about himself.
+- introduction of students: * Name, Place of belonging, Why chose to do Mtech :) *
+- made aware of grading scheme and Goals and Objectives of the course.
+- Discussed why to study computer architecture or why this course.
+  As we are computer programmers(funny) we like only to code or try to make application then why should we worry about the underlying architecture of system.
+  we were shown the stack of layer to solve any computer or digital problem
+  | Problem |
+  | Algorithm |
+  | Code |
+  | Instruction Set |
+  | Architecture |
+  | Microarchitecture |
+  | Logic |
+  | Circuit |
+  | Electron |
+  All steps of code compilation were discussed: .c->|preprocessor|->.i->|compiler|->.asm->|assembler|->.obj(object code)->machine code(.out)
+  Is the architecture of system frequently changes or is it a long term solution: it was answered by taking above stack and given example of still used x86 and x64 architecture.
+  
