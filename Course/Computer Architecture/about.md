@@ -21,6 +21,8 @@ Time: Morning 8-8:50🕔 Mon,Wed,Fri
 - Discussed why to study computer architecture or why this course.
   As we are computer programmers(funny) we like only to code or try to make application then why should we worry about the underlying architecture of system.
   we were shown the stack of layer to solve any computer or digital problem
+  | stack |
+  | ----- |
   | Problem |
   | Algorithm |
   | Code |
