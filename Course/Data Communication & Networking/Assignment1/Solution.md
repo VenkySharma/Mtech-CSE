@@ -10,4 +10,4 @@ I Sent request to 3 websites using HTTP and capture the packets using Wireshark 
 
 Website | IP & Mac Source Address | IP & Mac Destination Address | Http response code| Round Trip Time for http 200|Http response code after reloading | Round trip time after reloading|Transport layer protocol(tcp/udp)|Source(client) port|Desination(server) port 
 --------|--------------|----------------|-------------------|----------|-----|------|------|-----|---------
-[http://www.example.com]|172.22.45.7-|93.184.216.34 |200|0.543665463 sec| | |TCP|41010|80 |
+http://www.example.com|172.22.45.7-|93.184.216.34 |200|0.543665463 sec| | |TCP|41010|80 |
