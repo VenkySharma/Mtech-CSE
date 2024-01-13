@@ -7,12 +7,12 @@ Topic: Introduction to Wireshark Marks: 20
 sent
    - b. Identify the source and destination MAC addresses from the HTTP GET request
 sent
-  - c. Are the source and destination (IP and MAC) addresses same for all the three
+   - c. Are the source and destination (IP and MAC) addresses same for all the three
 websites? Explain why?
-  - d. What is the response you got for all the three HTTP requests?
-  - e. Find the time it took from sending the request till receiving the HTTP 200 OK
+   - d. What is the response you got for all the three HTTP requests?
+   - e. Find the time it took from sending the request till receiving the HTTP 200 OK
 response.
-  - f. Now reload the website and capture the traffic again, and check the HTTP
+   - f. Now reload the website and capture the traffic again, and check the HTTP
 response code you are getting.
   - g. Again, find the time it took from sending the request till receiving the response.
   - h. Identify whether the packets have been sent using TCP or UDP
