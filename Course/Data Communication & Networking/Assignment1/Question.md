@@ -5,7 +5,7 @@ Topic: Introduction to Wireshark Marks: 20
 4) For each of the website:
    - a. Identify the source and destination IP addresses from the HTTP GET request
 sent
-  - b. Identify the source and destination MAC addresses from the HTTP GET request
+- b. Identify the source and destination MAC addresses from the HTTP GET request
 sent
   - c. Are the source and destination (IP and MAC) addresses same for all the three
 websites? Explain why?
