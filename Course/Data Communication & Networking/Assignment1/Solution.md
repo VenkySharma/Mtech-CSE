@@ -8,5 +8,5 @@ Opened the **** interface in wireshark and protocols traced were following:
 
 I Sent request to 3 websites using HTTP and capture the packets using Wireshark as mentioned below
 
-Website | Address Type | Source Address | Destination Address 
+Website | Address Type | Source Address | Destination Address | Http response code| Round Trip Time for http 200| 
 --------|--------------|----------------|-------------------
