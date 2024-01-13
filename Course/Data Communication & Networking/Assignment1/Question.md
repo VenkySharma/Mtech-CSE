@@ -3,7 +3,7 @@ Topic: Introduction to Wireshark Marks: 20
 2) Open the network interface and list 5 different protocols you are able to trace
 3) Send a request to 3 websites using HTTP and capture the packets using Wireshark
 4) For each of the website:
-   a. Identify the source and destination IP addresses from the HTTP GET request
+   - a. Identify the source and destination IP addresses from the HTTP GET request
 sent
    b. Identify the source and destination MAC addresses from the HTTP GET request
 sent
