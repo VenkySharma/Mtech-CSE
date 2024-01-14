@@ -1,9 +1,12 @@
 Faculty: Sai Kiran G
 Course code: EEL7200
-[Lecture1](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Data%20Communication%20%26%20Networking/about.md#lecture1-)
-[Lecture2]
 
-### Lecture1
+[Lecture1](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Data%20Communication%20%26%20Networking/about.md#lecture1-)
+[Lecture2](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Data%20Communication%20%26%20Networking/about.md#lecture1-)
+[Lecture3](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Data%20Communication%20%26%20Networking/about.md#lecture3-100124-wed)
+[Lecture4](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Data%20Communication%20%26%20Networking/about.md#lecture4-120124-fri)
+
+### Lecture1-
 
 ### Lecture2
 What is circuit switching and Packet Switching
