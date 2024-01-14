@@ -1,8 +1,9 @@
 Faculty: Sai Kiran G
 Course code: EEL7200
-[Lecture1][https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Data%20Communication%20%26%20Networking/about.md#lecture1-]
+[Lecture1]
+[Lecture2]
 
-### Lecture1-
+### Lecture1
 
 ### Lecture2
 What is circuit switching and Packet Switching
