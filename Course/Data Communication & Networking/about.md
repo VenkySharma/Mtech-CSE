@@ -1,12 +1,12 @@
 Faculty: Sai Kiran G
 Course code: EEL7200
 
-###Lecture1-
+### Lecture1-
 
-###Lecture2
+### Lecture2
 What is circuit switching and Packet Switching
 
-###Lecture3-10/01/24 Wed
+### Lecture3-10/01/24 Wed
 - How and why we moved from packet switching to Arpanet model
 - Why we needed model like OSI
 - what is physical layer and what are functions of it
@@ -30,7 +30,7 @@ What is circuit switching and Packet Switching
   - *why currently there is shift in network routing from Distributed Routing to Centralized Routing*
     - Separate Bandwidth Requirement
 
-###Lecture4-12/01/24 Fri
+### Lecture4-12/01/24 Fri
 - what is transport layer and what are the functions of it
   - Process to Process Delivery
   - Port Adressing
