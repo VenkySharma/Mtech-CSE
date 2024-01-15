@@ -20,6 +20,7 @@ Issue with perfect security in case of one time pad
   Human weakness in generating randomness e.g
   - Financial Data statistics
   - Password statistics
+
 So, Now the solution remains under the umbrella that we will have to relax security requirement.
 We dont want our solution to be perfectly secure. What are the security requirement or how we want our security to be defined?
 There are two methods:
