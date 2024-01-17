@@ -26,7 +26,6 @@ Internet Protocol Version 4, Src: 172.22.45.7, Dst: 45.55.58.72
 Transmission Control Protocol, Src Port: 45496, Dst Port: 80, Seq: 1, Ack: 1, Len: 346
 Hypertext Transfer Protocol
 
-<b>Next one is coming</b>
 
 No.  Time          Source       Destination   Protocol  Length   Info
 30  2.097800131   45.55.58.72   172.22.45.7       HTTP    1057   HTTP/1.1 200 OK (text/html)
