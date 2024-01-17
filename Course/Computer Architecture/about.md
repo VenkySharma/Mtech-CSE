@@ -37,3 +37,14 @@ Time: Morning 8-8:50🕔 Mon,Wed,Fri
   
   Is the architecture of system frequently changes or is it a long term solution: it was answered by taking above stack and given example of still used x86 and x64 architecture.
   
+### Day2 08/01/24
+
+### Day3 10/01/24
+
+### Day4 15/01/24
+- Recursive or Iterative version of program
+- Single core of high frequency or Many core of lower frequency
+- Moore's Law
+- Why we moved to incresing in no of chores after 2005
+- what is GPU & ASICS
+- How come ASICS are used in different ML algo if it is made or usable for a partcular function or algo
