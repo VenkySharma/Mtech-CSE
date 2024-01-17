@@ -52,5 +52,20 @@ What is circuit switching and Packet Switching
 - what are real world used model of internet
   - Zigbi-Physical, Data Link, Application
   - TCP/IP-(Physical, Data link), Network, Transport, (Session,Presntation,Application)
+### Lecture5-16/01/24 Tue
+- Quality of Service(QOS) what is it?
+- Quality of experience
+- How we will quantify QOS
+  - *Throughput*-what is it & how it affect qos? where is it more considerable-e.g EMBB
+  - *Reliability*-what(Packet Loss) is it & how it affect qos? where is it more considerable-e.g URLLC
+  - *Latency*-what is it & how it affect qos? how to remediate more latency?
+  - *Jitter*-what is it-difference of latency b/w diff packets.Imapact of Jitter. e.g in Drone n/w we need no jitter.
+-Does OSI layer affect QOS & how?
+ - **Physical Layer**-Different medium, Different modulation & Demodulation scheme, Diff Error handling mechanism.
+ - **Data Link Layer**-How we handle retransmission, diff channel access mechanism.
+ - **Network Layer**-Routing algo.
+ - **Transport Layer**-Flow Control,Error Handling, Congestion Handling
+ - **Application Layer**
+ - Cross layer Optimization- what & Why. 
     
 ${\color{red}Next one is coming}$
