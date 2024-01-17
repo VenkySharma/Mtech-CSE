@@ -62,11 +62,11 @@ What is circuit switching and Packet Switching
   - *Jitter*-what is it-difference of latency b/w diff packets.Imapact of Jitter. e.g in Drone n/w we need no jitter.
     
 - Does OSI layer affect QOS & how?
- - **Physical Layer**-Different medium, Different modulation & Demodulation scheme, Diff Error handling mechanism.
- - **Data Link Layer**-How we handle retransmission, diff channel access mechanism.
- - **Network Layer**-Routing algo.
- - **Transport Layer**-Flow Control,Error Handling, Congestion Handling
- - **Application Layer**
- - Cross layer Optimization- what & Why. 
+  - **Physical Layer**-Different medium, Different modulation & Demodulation scheme, Diff Error handling mechanism.
+  - **Data Link Layer**-How we handle retransmission, diff channel access mechanism.
+  - **Network Layer**-Routing algo.
+  - **Transport Layer**-Flow Control,Error Handling, Congestion Handling
+  - **Application Layer**
+  - Cross layer Optimization- what & Why. 
     
 ${\color{red}Next one is coming}$
