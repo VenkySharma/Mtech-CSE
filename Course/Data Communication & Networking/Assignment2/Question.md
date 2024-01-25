@@ -2,14 +2,14 @@
 1) From the Wireshark capture, select a TCP packet and then describe the relevant fields in the
 IP header and their usefulness or meaning.
 
-2) Ping to the website: www.inria.fr
-   a. Observe the ICMP packets transferred and specify why the ICMP packets do
+2) Ping to the website: www.inria.fr 
+   - a. Observe the ICMP packets transferred and specify why the ICMP packets do
 not have any source and destination port
-b. Examine one of the ICMP requests and specify the type and code
-   c. What other fields are present in the ICMP packet (only) and mention the uses
+   - b. Examine one of the ICMP requests and specify the type and code
+   - c. What other fields are present in the ICMP packet (only) and mention the uses
 of these fields
-   d. What is the type and code of the reply packet
-   e. Does ICMP echo request and reply packets have the same fields
+   - d. What is the type and code of the reply packet
+   - e. Does ICMP echo request and reply packets have the same fields
 
 4) Tracert to the website www.inria.fr
 
