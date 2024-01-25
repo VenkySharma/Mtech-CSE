@@ -3,6 +3,7 @@
 IP header and their usefulness or meaning.
 
 2) Ping to the website: www.inria.fr
+
    a. Observe the ICMP packets transferred and specify why the ICMP packets do
 not have any source and destination port
    b. Examine one of the ICMP requests and specify the type and code
@@ -11,7 +12,8 @@ of these fields
    d. What is the type and code of the reply packet
    e. Does ICMP echo request and reply packets have the same fields
 
-3) Tracert to the website www.inria.fr
+4) Tracert to the website www.inria.fr
+
    a. Examine the ICMP response for the first request. What is the type and code?
 Explain why?
    b. Examine the last ICMP response? Does it comprise of an error? How does it
