@@ -10,7 +10,7 @@ This is the ping request made to www.inria.fr and respective resopnse
   - e.
 
 ### Solution 3.
-Tracert request and responses to website (www.inria.fr) are as follows.
+Tracert request and responses to website www.inria.fr are as follows.
   - a.
   - b.
   - c.
