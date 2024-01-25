@@ -11,13 +11,13 @@ of these fields
    - d. What is the type and code of the reply packet
    - e. Does ICMP echo request and reply packets have the same fields
 
-4) Tracert to the website www.inria.fr
+3) Tracert to the website www.inria.fr
 
-   a. Examine the ICMP response for the first request. What is the type and code?
+   - a. Examine the ICMP response for the first request. What is the type and code?
 Explain why?
-   b. Examine the last ICMP response? Does it comprise of an error? How does it
+   - b. Examine the last ICMP response? Does it comprise of an error? How does it
 vary from response received in Question 2(a)
-   c. From the latencies discovered from the tracert program, is there a link whose
+   - c. From the latencies discovered from the tracert program, is there a link whose
 delay is significantly longer than others? On the basis of their router names or
 IP addresses can you guess the location of the routers and what kind of link
 this could possibly be.
