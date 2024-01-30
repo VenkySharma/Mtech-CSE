@@ -1,4 +1,61 @@
 ### Solution 1.
+Here is the IP packet header using tcp 
+
+`Frame 4914: 65226 bytes on wire (521808 bits), 65226 bytes captured (521808 bits) on interface eth0, id 0
+Ethernet II, Src: Microsof_b4:62:69 (00:15:5d:b4:62:69), Dst: PcsCompu_cb:7e:f5 (08:00:27:cb:7e:f5)
+Internet Protocol Version 4, Src: 172.16.100.5, Dst: 172.20.230.237
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 65212
+    Identification: 0x2a6e (10862)
+    010. .... = Flags: 0x2, Don't fragment
+        0... .... = Reserved bit: Not set
+        .1.. .... = Don't fragment: Set
+        ..0. .... = More fragments: Not set
+    ...0 0000 0000 0000 = Fragment Offset: 0
+    Time to Live: 60
+    Protocol: TCP (6)
+    Header Checksum: 0x72b5 [validation disabled]
+    [Header checksum status: Unverified]
+    Source Address: 172.16.100.5
+    Destination Address: 172.20.230.237
+`
+  - Version: 4
+        Usefulness: Indicates that the IP version being used is IPv4.
+  - Header Length: 20 bytes (5)
+        Usefulness: Specifies the length of the IP header in 32-bit words. In this case, the header length is 20 bytes, which is the standard size for IPv4 headers without options.
+
+  - Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+        Usefulness: The DSCP (Differentiated Services Code Point) field is used for Quality of Service (QoS) markings, but in this case, it's set to 0x00, indicating a default service. The ECN (Explicit Congestion Notification) is set to Not-ECT, meaning that congestion notification is not enabled.
+
+  - Total Length: 65212
+        Usefulness: Represents the total length of the IP packet (header + data) in bytes. In this example, the total length is 65212 bytes.
+
+  - Identification: 0x2a6e (10862)
+        Usefulness: A unique identifier assigned to the packet, often used in fragmentation and reassembly. In this case, the identification is 0x2a6e (10862).
+
+  - Flags: 0x2, Don't fragment
+        Usefulness: Flags indicate various control information for packet handling. In this case, the "Don't Fragment" (DF) flag is set (0x2), indicating that the packet should not be fragmented during transmission.
+
+  - Fragment Offset: 0
+        Usefulness: Specifies the position of the fragment in the original unfragmented packet. In this case, the offset is 0, indicating that this is not a fragment.
+
+  - Time to Live: 60
+        Usefulness: Represents the maximum time the packet is allowed to live in the network. It is decreased by routers as the packet traverses the network to prevent it from circulating indefinitely.
+
+  - Protocol: TCP (6)
+        Usefulness: Specifies the higher-layer protocol to which the payload belongs. In this case, the value 6 indicates that the payload is a TCP packet.
+
+  - Header Checksum: 0x72b5 [validation disabled]
+        Usefulness: Provides error-checking for the IP header to ensure data integrity during transmission. The checksum value is 0x72b5 in this example.
+
+  - Source Address: 172.16.100.5
+        Usefulness: Specifies the IP address of the sender (source) of the packet.
+
+  - Destination Address: 172.20.230.237
+        Usefulness: Specifies the IP address of the recipient (destination) of the packet.
+        
 
 ### Solution 2.
 This is the ping request made to www.inria.fr and respective resopnse
