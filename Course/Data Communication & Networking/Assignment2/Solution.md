@@ -6,6 +6,7 @@ This is the ping request made to www.inria.fr and respective resopnse
     
     ICMP (Internet Control Message Protocol) operates at the network layer of the OSI model and is primarily used for diagnostic and error reporting purposes in IP networks.         ICMP packets are encapsulated within IP packets but do not have the concept of source and destination ports like some other transport layer protocols such as TCP or UDP.
   - b. Below is attached echo request packet. Type is 8 and code is 0 which is highlited.
+
     `Frame 7: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface enp0s3, id 0
 Ethernet II, Src: PcsCompu_62:db:48 (08:00:27:62:db:48), Dst: RealtekU_12:35:02 (52:54:00:12:35:02)
 Internet Protocol Version 4, Src: 10.0.2.15, Dst: 128.93.162.83
@@ -38,6 +39,7 @@ Internet Control Message Protocol
     - Timestamp (32 bits) and Timestamp Reply (32 bits):
         Use: Present in Timestamp and Timestamp Reply messages, used for measuring the round-trip time between the source and destination. The Timestamp field contains the time the Echo Request was sent, and the Timestamp Reply field contains the time the reply was sent.
   - d. Below is attached echo reply packet. Type is 0 and code is 0 which is highlited.
+
     `Frame 8: 98 bytes on wire (784 bits), 98 bytes captured (784 bits) on interface enp0s3, id 0
 Ethernet II, Src: RealtekU_12:35:02 (52:54:00:12:35:02), Dst: PcsCompu_62:db:48 (08:00:27:62:db:48)
 Internet Protocol Version 4, Src: 128.93.162.83, Dst: 10.0.2.15
