@@ -62,6 +62,50 @@ Internet Control Message Protocol
       In general, ICMP Echo Request and Echo Reply packets have similar fields, but there are some differences related to the specific nature of the request and response.
 ### Solution 3.
 Tracert request and responses to website www.inria.fr are as follows.
-  - a.
-  - b.
-  - c.
+  - a. 1st icmp response packet are as follows in which Type: 11 (Time-to-live exceeded) and Code: 0 (Time to live exceeded in transit)
+    
+    `Frame 10: 102 bytes on wire (816 bits), 102 bytes captured (816 bits) on interface eth0, id 0
+Ethernet II, Src: Microsof_b4:62:69 (00:15:5d:b4:62:69), Dst: PcsCompu_cb:7e:f5 (08:00:27:cb:7e:f5)
+Internet Protocol Version 4, Src: 172.20.224.1, Dst: 172.20.230.237
+Internet Control Message Protocol
+    Type: 11 (Time-to-live exceeded)
+    Code: 0 (Time to live exceeded in transit)
+    Checksum: 0xaaec [correct]
+    [Checksum Status: Good]
+    Unused: 00000000
+    Internet Protocol Version 4, Src: 172.20.230.237, Dst: 128.93.162.83
+    User Datagram Protocol, Src Port: 40528, Dst Port: 33434
+Data (32 bytes)
+    Data: 404142434445464748494a4b4c4d4e4f505152535455565758595a5b5c5d5e5f
+    [Length: 32]
+`
+  - b. Last Icmp response are as follows in which Type: 3 (Destination unreachable) and Code: 3 (Port unreachable)
+    `Frame 437: 163 bytes on wire (1304 bits), 163 bytes captured (1304 bits) on interface eth0, id 0
+Ethernet II, Src: PcsCompu_cb:7e:f5 (08:00:27:cb:7e:f5), Dst: Microsof_b4:62:69 (00:15:5d:b4:62:69)
+Internet Protocol Version 4, Src: 172.20.230.237, Dst: 172.20.224.1
+Internet Control Message Protocol
+    Type: 3 (Destination unreachable)
+    Code: 3 (Port unreachable)
+    Checksum: 0x1c8c [correct]
+    [Checksum Status: Good]
+    Unused: 00000000
+    Internet Protocol Version 4, Src: 172.20.224.1, Dst: 172.20.230.237
+    User Datagram Protocol, Src Port: 53, Dst Port: 46097
+Domain Name System (response)
+`
+  - c. These are the following trceroute output whose latencies are longer than other
+    `* nkn.mx1.gen.ch.geant.net (62.40.125.214)  198.757 ms *
+13    ae7.mx1.par.fr.geant.net (62.40.98.239)  195.742 ms
+    nkn.mx1.gen.ch.geant.net (62.40.125.214)  185.718 ms
+    ae7.mx1.par.fr.geant.net (62.40.98.239)  195.707 ms
+14  ae7.mx1.par.fr.geant.net (62.40.98.239)  195.691 ms  195.673 ms
+    renater-lb1-gw.mx1.par.fr.geant.net (62.40.124.70)  195.030 ms
+15  renater-lb1-gw.mx1.par.fr.geant.net (62.40.124.70)  195.411 ms *  196.699 ms
+16  * inria-rocquencourt-vl1631-te1-4-inria-rtr-021.noc.renater.fr (193.51.184.177)  196.667 ms *
+17  * inria-rocquencourt-vl1631-te1-4-inria-rtr-021.noc.renater.fr (193.51.184.177)  198.568 ms  198.553 ms`
+    ip Address | Location |Possible type of link
+    ---------|------------|----------
+    62.40.125.214|Geneva,Switzerland | optical Fibre sea link
+    62.40.98.239 |Paris,France |Inter country
+    62.40.124.70 |Paris,France |Physical Link
+    193.51.184.177 |Rennes,France |Physical link
