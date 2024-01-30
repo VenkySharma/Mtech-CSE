@@ -93,16 +93,18 @@ Internet Control Message Protocol
     User Datagram Protocol, Src Port: 53, Dst Port: 46097
 Domain Name System (response)
 `
-  - c. These are the following trceroute output whose latencies are longer than other
-    `* nkn.mx1.gen.ch.geant.net (62.40.125.214)  198.757 ms *
-13    ae7.mx1.par.fr.geant.net (62.40.98.239)  195.742 ms
+  - c. These are the following trceroute output whose latencies are longer than others
+    
+    `` nkn.mx1.gen.ch.geant.net (62.40.125.214)  198.757 ms 
+    ae7.mx1.par.fr.geant.net (62.40.98.239)  195.742 ms
     nkn.mx1.gen.ch.geant.net (62.40.125.214)  185.718 ms
     ae7.mx1.par.fr.geant.net (62.40.98.239)  195.707 ms
-14  ae7.mx1.par.fr.geant.net (62.40.98.239)  195.691 ms  195.673 ms
+    ae7.mx1.par.fr.geant.net (62.40.98.239)  195.691 ms  195.673 ms
     renater-lb1-gw.mx1.par.fr.geant.net (62.40.124.70)  195.030 ms
-15  renater-lb1-gw.mx1.par.fr.geant.net (62.40.124.70)  195.411 ms *  196.699 ms
-16  * inria-rocquencourt-vl1631-te1-4-inria-rtr-021.noc.renater.fr (193.51.184.177)  196.667 ms *
-17  * inria-rocquencourt-vl1631-te1-4-inria-rtr-021.noc.renater.fr (193.51.184.177)  198.568 ms  198.553 ms`
+   renater-lb1-gw.mx1.par.fr.geant.net (62.40.124.70)  195.411 ms *  196.699 ms
+   inria-rocquencourt-vl1631-te1-4-inria-rtr-021.noc.renater.fr (193.51.184.177)  196.667 ms *
+   inria-rocquencourt-vl1631-te1-4-inria-rtr-021.noc.renater.fr (193.51.184.177)  198.568 ms  198.553 ms``
+    so corresponding ip address and their location and link is as follows
     ip Address | Location |Possible type of link
     ---------|------------|----------
     62.40.125.214|Geneva,Switzerland | optical Fibre sea link
