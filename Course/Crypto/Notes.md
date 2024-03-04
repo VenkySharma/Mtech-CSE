@@ -70,7 +70,8 @@ Test for Primality, Using CRT, charmicel number, Miller Rabin Test, Elgamal Cryp
 ### [Lec18]()-*01/03/24*
 Quadratic Residue Modulo p, QNR, Euler's criterion
 
-### [Lec19]()-**
+### [Lec19]()-*04/03/24*
+Legender System, Jacobian Symbol, Goldwaseer-Micali CryptoSystem, CCA Security
 
 ### [Lec20]()-** 
 
