@@ -1,8 +1,8 @@
-### [Lec1]() -5/8/24
+### [Lec1]() -
 
-### Lec2
+### [Lec2]()*08/01/24*
 
-### Lec3
+### [Lec3]()*10/01/24* 
 
 ### Lec4
 Issue with perfect security in case of one time pad
