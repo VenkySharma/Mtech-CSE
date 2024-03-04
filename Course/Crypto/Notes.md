@@ -2,7 +2,7 @@
 
 ### [Lec2]()-*08/01/24*
 
-### Assignment 1 ####* 08/01/24-16/01/24*
+### Assignment 1  *08/01/24-16/01/24*
 
 ### [Lec3]()-*10/01/24* 
 
@@ -33,6 +33,9 @@ There are two methods:
 
 ### [Lec6]()-*17/01/24* 
 
+
+### Assignment 2  *18/01/24-28/01/24*
+
 ### [Lec7]()-*22/01/24*
 
 ### [Lec8]()-*24/01/24* 
@@ -45,12 +48,18 @@ There are two methods:
 
 ### [Lec12]()-*07/02/24* 
 
+
+### Minor Exam 1  *08/02/24*
+
 ### [Lec13]()-*12/02/24*
 
 ### [Lec14]()-*14/02/24* 
 
 ### [Lec15]()-*19/02/24*
 GCD, Extended GCD, Chinese Remainder Theorem, Square Root Mod n, Test for Primality, Miller Rabin Test
+
+
+### Assignment 3  *19/02/24-01/03/24*
 
 ### [Lec16]()-*26/02/24* 
 Proof of Correctness of RSA, Attack on Rsa, Rabin Cryptosystem, Square Root mod n
