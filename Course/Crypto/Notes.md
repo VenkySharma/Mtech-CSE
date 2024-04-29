@@ -88,18 +88,18 @@ Bilinear Pairings, Divisible computation Diffie–Hellman(DCDH)
 ### [Lec29]()------------------------------------------- $\color{red}{08.04.24}$
 Identity Based Encryption(IBE), Ring Signatures
 
-### [Lec30]()------------------------------------------- $\color{red}{15.04.2024}$
+### [Lec30]()------------------------------------------- $\color{red}{15.04.24}$
 Secret Sharing
 
-### [Lec31]()-------------------------------------------\color{red}{*19/04/2024*}
+### [Lec31]()------------------------------------------- $\color{red}{19/04/24}
 Secure Multiparty Computation, Oblivious transfer
 
-### [Lec32]()-------------------------------------------\color{red}{*22/04/2024*}
+### [Lec32]()------------------------------------------- $\color{red}{22/04/24}
 Interactive Proof System & Properties, Zero Knowledge Proof
 
-### [Lec33]()-------------------------------------------\color{red}{*24/04/2024*}
+### [Lec33]()------------------------------------------- $\color{red}{24/04/24}
 ZKP in Graph Isomorphism, Commitment Schemes, Schnorr's protocol
 
-### [Lec34](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Crypto/src/lec34.pdf)-------------------------------------------\color{red}{*29/04/2024*}
+### [Lec34](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Crypto/src/lec34.pdf)------------------------------------------- $\color{red}{29/04/24}
 ZKP in Graph 3-coloring
 $\color{red}{your-text-here}$
