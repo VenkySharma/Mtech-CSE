@@ -102,4 +102,4 @@ ZKP in Graph Isomorphism, Commitment Schemes, Schnorr's protocol
 
 ### [Lec34](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Crypto/src/lec34.pdf)-*29/04/2024*
 ZKP in Graph 3-coloring
-$\color{color-code}{your-text-here}$
+$\color{red}{your-text-here}$
