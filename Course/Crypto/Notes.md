@@ -85,10 +85,10 @@ Bilinear Pairings, Divisible computation Diffie–Hellman(DCDH)
 
 ### [Talk on Cryptography in Automation by reasearcher]                                      *05/04/2024*
 
-### [Lec29]()------------------------------------------- $\color{red}{08/04/24}$
+### [Lec29]()------------------------------------------- $\color{red}{08.04.24}$
 Identity Based Encryption(IBE), Ring Signatures
 
-### [Lec30]()------------------------------------------- $\color{red}{*15/04/2024*}$
+### [Lec30]()------------------------------------------- $\color{red}{15.04.2024}$
 Secret Sharing
 
 ### [Lec31]()-------------------------------------------\color{red}{*19/04/2024*}
