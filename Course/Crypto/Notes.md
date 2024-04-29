@@ -2,11 +2,13 @@
 
 ### [Lec2]()-*08/01/24*
 
-### Assignment 1  *08/01/24-16/01/24*
+### Assignment 1                                *08/01/24-16/01/24*
 
 ### [Lec3]()-*10/01/24* 
 
-### Lec4
+### [Lec4]()                                    *12/01/24*
+Issue with Perfect Security, Security Def, Psuedo Randomness
+
 Issue with perfect security in case of one time pad
 - Malleability of one time pad.
 
@@ -61,19 +63,42 @@ GCD, Extended GCD, Chinese Remainder Theorem, Square Root Mod n, Test for Primal
 
 ### Assignment 3  *19/02/24-01/03/24*
 
-### [Lec16]()-*26/02/24* 
+### [Lec16]()                                     *26/02/24* 
 Proof of Correctness of RSA, Attack on Rsa, Rabin Cryptosystem, Square Root mod n
 
-### [Lec17]()-*28/02/24*
+### [Lec17]()                                      *28/02/24*
 Test for Primality, Using CRT, charmicel number, Miller Rabin Test, Elgamal Cryptosystem
 
-### [Lec18]()-*01/03/24*
+### [Lec18]()                                      *01/03/24*
 Quadratic Residue Modulo p, QNR, Euler's criterion
 
-### [Lec19]()-*04/03/24*
+### [Lec19]()                                      *04/03/24*
 Legender System, Jacobian Symbol, Goldwaseer-Micali CryptoSystem, CCA Security
 
-### [Lec20]()-** 
+### [Lec20]()                                      *06/03/24* 
+
+### [Lec27]()                                      *27/03/24*
+Minor2 Paper Discussion
+
+### [Lec28]()                                      *01/04/24*
+Bilinear Pairings, Divisible computation Diffie–Hellman(DCDH)
+
+### [Talk on Cryptography in Automation by reasearcher]                                      *05/04/2024*
+
+### [Lec29]()                                      *08/04/2024*
+Identity Based Encryption(IBE), Ring Signatures
+
+### [Lec30]()                                      *15/04/2024*
+Secret Sharing
+
+### [Lec31]()                                      *19/04/2024*
+Secure Multiparty Computation, Oblivious transfer
+
+### [Lec32]()                                      *22/04/2024*
+Interactive Proof System & Properties, Zero Knowledge Proof
+
+### [Lec33]()                                      *24/04/2024*
+ZKP in Graph Isomorphism, Commitment Schemes, Schnorr's protocol
 
 ### [Lec34](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Crypto/src/lec34.pdf)-*29/04/2024*
-Zero Knowledge in Graph 3-coloring
+ZKP in Graph 3-coloring
