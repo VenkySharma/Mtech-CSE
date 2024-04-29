@@ -85,7 +85,7 @@ Bilinear Pairings, Divisible computation Diffie–Hellman(DCDH)
 
 ### [Talk on Cryptography in Automation by reasearcher]                                      *05/04/2024*
 
-### [Lec29]()-------------------------------------------$\color{red}{08/04/24}$
+### [Lec29]()------------------------------------------- $\color{red}{08/04/24}$
 Identity Based Encryption(IBE), Ring Signatures
 
 ### [Lec30]()-------------------------------------------\color{red}{*15/04/2024*}
@@ -102,4 +102,4 @@ ZKP in Graph Isomorphism, Commitment Schemes, Schnorr's protocol
 
 ### [Lec34](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Crypto/src/lec34.pdf)-------------------------------------------\color{red}{*29/04/2024*}
 ZKP in Graph 3-coloring
-\color{red}{your-text-here}
+$\color{red}{your-text-here}$
