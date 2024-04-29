@@ -77,10 +77,10 @@ Legender System, Jacobian Symbol, Goldwaseer-Micali CryptoSystem, CCA Security
 
 ### [Lec20]()                                      *06/03/24* 
 
-### [Lec27]()                                      *27/03/24*
+### [Lec27]()------------------------------------------- $\color{red}{*27/03/24*}$
 Minor2 Paper Discussion
 
-### [Lec28]()------------------------------------------\color{red}{*01/04/24*}
+### [Lec28]()------------------------------------------- $\color{red}{01/04/24}$
 Bilinear Pairings, Divisible computation Diffie–Hellman(DCDH)
 
 ### [Talk on Cryptography in Automation by reasearcher]                                      *05/04/2024*
@@ -91,15 +91,15 @@ Identity Based Encryption(IBE), Ring Signatures
 ### [Lec30]()------------------------------------------- $\color{red}{15.04.24}$
 Secret Sharing
 
-### [Lec31]()------------------------------------------- $\color{red}{19/04/24}
+### [Lec31]()------------------------------------------- $\color{red}{19/04/24}$
 Secure Multiparty Computation, Oblivious transfer
 
-### [Lec32]()------------------------------------------- $\color{red}{22/04/24}
+### [Lec32]()------------------------------------------- $\color{red}{22/04/24}$
 Interactive Proof System & Properties, Zero Knowledge Proof
 
-### [Lec33]()------------------------------------------- $\color{red}{24/04/24}
+### [Lec33]()------------------------------------------- $\color{red}{24/04/24}$
 ZKP in Graph Isomorphism, Commitment Schemes, Schnorr's protocol
 
-### [Lec34](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Crypto/src/lec34.pdf)------------------------------------------- $\color{red}{29/04/24}
+### [Lec34](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Crypto/src/lec34.pdf)------------------------------------------- $\color{red}{29/04/24}$
 ZKP in Graph 3-coloring
 $\color{red}{your-text-here}$
