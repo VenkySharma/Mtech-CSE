@@ -6,7 +6,7 @@ Classical cryptosystem & cryptanalysis, Defining security, Perfect Security
 ### Assignment 1--------------------------------------- $\color{red}{08.01.24-16.01.24}$
 
 ### [Lec3](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Crypto/src/lec2_3_4.pdf)------------------------------------------- $\color{red}{10.01.24}$ 
- $\color{green}{This has been prepared by Somitra sir, I was absent.}$ It contain some components of lec2 as well as lec4
+ $\color{green}{This .has. been. prepared .by .Somitra .sir, I .was .absent.}$ It contain some components of lec2 as well as lec4
 
 ### [Lec4](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Crypto/src/lec04.md)------------------------------------------- $\color{red}{12.01.24}$
 vulnerability of perfect security, Relaxing Security, Adversial game
