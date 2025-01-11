@@ -1,4 +1,4 @@
-### [Lec1]()------------------------------------------- $\color{red}{no idea}$
+### [Lec1]()------------------------------------------- $\color{green}{no idea}$
 
 ### [Lec2]()------------------------------------------- $\color{red}{08.01.24}$
 Classical cryptosystem & cryptanalysis, Defining security, Perfect Security
@@ -31,7 +31,7 @@ vulnerability of perfect security, Relaxing Security, Adversial game
 ### [Lec12]()------------------------------------------ $\color{red}{07.02.24}$ 
 
 
-### Minor Exam 1--------------------------------------- $\color{red}{08.02.24}$
+### [Minor Exam 1](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Crypto/src/Minor%201_2024%20crypto.pdf)--------------------------------------- $\color{blue}{08.02.24}$
 
 ### [Lec13]()------------------------------------------ $\color{red}{12.02.24}$
 
@@ -56,6 +56,8 @@ Quadratic Residue Modulo p, QNR, Euler's criterion
 Legender System, Jacobian Symbol, Goldwaseer-Micali CryptoSystem, CCA Security
 
 ### [Lec20]()------------------------------------------ $\color{red}{06.03.24}$
+
+### [Minor Exam 2](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Crypto/src/Minor%202_2024%20crypto.pdf)--------------------------------------- $\color{blue}{21.03.24}$
 
 ### [Lec27]()------------------------------------------ $\color{red}{27.03.24}$
 Minor2 Paper Discussion
@@ -83,3 +85,5 @@ ZKP in Graph Isomorphism, Commitment Schemes, Schnorr's protocol
 ### [Lec34](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Crypto/src/lec34.pdf)------------------------------------------ $\color{red}{29.04.24}$
 ZKP in Graph 3-coloring
 $\color{red}{your-text-here}$
+
+### [Major Exam](https://github.com/VenkySharma/Mtech-CSE/blob/main/Course/Crypto/src/Major_2024_crypto%20(1).pdf)--------------------------------------- $\color{blue}{09.05.24}$
